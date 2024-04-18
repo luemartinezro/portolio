@@ -3,7 +3,9 @@
 
 
 ### Education
+
 M.S., Statistics   Universidad Nacional de Colombia (Dec 2016)
+
 B.S., Economist    Universidad de Antioquia (Sep 2011)
 
 
