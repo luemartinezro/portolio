@@ -1,4 +1,4 @@
 # add the following to _config.yml file
 
 title: Esteban Martinez Roldan
-theme: jeykll-theme-minimal
+theme:  jekyll-theme-midnight
