@@ -25,7 +25,7 @@ Route optimization models, classification and customer churn.
 
 * Data Scientist - Head Analytics Team MVM Ingeniería de software, Medellín, Colombia | May 2021 - Dec 2022
   
-create proposals for analytical models, coordinate analytics team, review
+create proposals for analytical models, coordinate analytics team.
 Create forecast and prediction models, classification models, climate forecast models,
 classification models for energy dispatch.w client needs and deliver project results to end clients.
 
