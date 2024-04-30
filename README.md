@@ -36,3 +36,5 @@ classification models, teach analitics and Machine learning, risk models.
 
 
 ### Projects
+
+* Trading bot: creation a trading bot in real time from Binance: https://github.com/luemartinezro/bot_trading
